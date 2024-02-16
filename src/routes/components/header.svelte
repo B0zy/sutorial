@@ -18,6 +18,9 @@
         <li>
             <a href="https://wiki.facepunch.com/sbox/">Wiki</a>
         </li>
+        <li>
+            <a href="https://github.com/B0zy/sutorial">Contribute</a>
+        </li>
     </ul>
 
     <a href="https://discord.gg/sbox">

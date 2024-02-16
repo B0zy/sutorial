@@ -15,6 +15,9 @@
         <li>
             <a href="https://docs.facepunch.com/s/sbox-dev/doc/sbox-documentation-iWNhAIdqPB">Docs</a>
         </li>
+        <li>
+            <a href="https://wiki.facepunch.com/sbox/">Wiki</a>
+        </li>
     </ul>
 
     <a href="https://discord.gg/sbox">
